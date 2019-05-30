@@ -25,11 +25,11 @@ $ brew update
 
 $ brew install git
 
-3. if you do not have vim, install vim
+3. if you do not have vim, install vim(optional)
 
 $ brew install vim
 
-4. install zsh (an aleternative for bash)
+4. install zsh (an aleternative for bash, but much better)
 
 $ brew install zsh
 
